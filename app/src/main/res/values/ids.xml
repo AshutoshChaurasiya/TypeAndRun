@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSave" type="id" />
+    <item name="etMake" type="id" />
+    <item name="etPrice" type="id" />
+    <item name="etYear" type="id" />
+    <item name="etEngine" type="id" />
+    <item name="etColor" type="id" />
+    <item name="tvOutput" type="id" />
+</resources>
